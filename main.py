@@ -42,4 +42,4 @@ for n in range(len(tab)):
   password += tab[n]
 
 print(f"Your generated password is: {password}")
-input()
+
